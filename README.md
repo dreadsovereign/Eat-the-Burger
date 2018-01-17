@@ -27,7 +27,7 @@ To run the application locally, just type:
 
     node server.js
 
-Then open the application at port 3000 at the URL: http://localhost:3000.
+Then open the application at port 3000 at the URL: `http://localhost:3000`.
 
 
 
